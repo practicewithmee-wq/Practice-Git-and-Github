@@ -25,10 +25,12 @@ Git stores settings in three different locations depending on the desired scope:
 `git config --global core.editor "code --wait"`
 
 - Extra Configuration
-`git config --global core.autocrlf ture`
-`git config --global core.autocrlf input`
-`git config --global core.autocrlf false`
-`git config --global -e`
+```
+git config --global core.autocrlf ture
+git config --global core.autocrlf input
+git config --global core.autocrlf false
+git config --global -e
+```
 
 # **Clone And Status**
 command use in vs code terminal
