@@ -39,14 +39,14 @@ command use in vs code terminal
 - Status: Displays the state of the code
     `git status`
 
-- Untracked: new file that git doesn't yet track
-    Untracked files:
+- Untracked: new file that git doesn't yet track    
+    Untracked files:    
   (use "git add <file>..." to include in what will be committed)
 
-- Modified: changed 
-    Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
+- Modified: changed  
+    Changes not staged for commit:  
+  (use "git add <file>..." to update what will be committed)    
+  (use "git restore <file>..." to discard changes in working directory) 
         modified:   README.md
 - Staged: file is ready to be commited
 - Unmodified: unchanged 
