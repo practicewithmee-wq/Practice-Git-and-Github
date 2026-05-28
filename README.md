@@ -24,7 +24,7 @@ Git stores settings in three different locations depending on the desired scope:
 4. Set Vs code as Default Editor
 `git config --global core.editor "code --wait"`
 
-- Extra Configuration
+- **Extra Configuration**
 ```
 git config --global core.autocrlf ture
 git config --global core.autocrlf input
