@@ -1,12 +1,12 @@
 # Practice-Git-and-Github
-# Installation
+# **Installation**
 
 1. Download the latest version from [git](https://git-scm.com).
 2. Git installation [Video](https://www.youtube.com/watch?v=Kx1titsO57Q).
 3. After installation, open Git Bash or Command Prompt and run: `git --version`
 4. Create Acount and login.
 
-# Configration Levels 
+# **Configration Levels**
 Command use in git terminal
 Git stores settings in three different locations depending on the desired scope:
 
@@ -14,7 +14,7 @@ Git stores settings in three different locations depending on the desired scope:
 - **Global**   `--global`  Specific to you as a user.
 - **Local**    `--local`   Specific to one repository (default).
 
-# Configration Git
+# **Configration Git**
 1. Set Username
 `git config --global user.name "Your Name"`
 2. Set Email
@@ -30,7 +30,7 @@ Git stores settings in three different locations depending on the desired scope:
 `git config --global core.autocrlf false`
 `git config --global -e`
 
-# Clone And Status 
+# **Clone And Status**
 command use in vs code terminal
 - Clone: Cloning a repository on our local machine
     `git clone <- some link ->`
@@ -49,14 +49,14 @@ command use in vs code terminal
 - Staged: file is ready to be commited
 - Unmodified: unchanged 
 
-# Add And Commit
+# **Add And Commit**
 - Add: adds new or changed files in your working directory to the git staging area.
     `git add <- file name ->`
 
 - commit: it is the record of change
     `git commit -m "some message"`
 
-# Push command 
+# **Push command**
 - Push: upload local repo content to remote repo
     `git push origin main`
 
