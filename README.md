@@ -1,2 +1,6 @@
 # Practice-Git-and-Github
-This is my first day in git & github.
+# Installation
+<ol>
+    <li>Download the latest version from <a href="https://git-scm.com/">Git</a>
+    <li>
+</ol>
