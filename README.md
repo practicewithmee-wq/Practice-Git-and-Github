@@ -10,9 +10,9 @@
 Git stores settings in three different locations depending on the desired scope:
 
  Scope          flag             Description
-**System**   `--system`  For all users on the computer
-**Global**   `--global`  Specific to you as a user
-**Local**    `--local`   Specific to one repository (default)
+**System**   `--system`  For all users on the computer.
+**Global**   `--global`  Specific to you as a user.
+**Local**    `--local`   Specific to one repository (default).
 
 
 
