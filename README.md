@@ -7,7 +7,7 @@
 4. Create Acount and login.
 
 # **Configration Levels**
-Command use in git terminal.
+Command use in git terminal.    
 Git stores settings in three different locations depending on the desired scope:
 
 - **System**   `--system`  For all users on the computer.
