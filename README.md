@@ -116,9 +116,15 @@ command use in vs code terminal
 ![markdownimage](markdown.png)
 
 ## **Errors**
-1.![error1](error1.png)
+**Case1.**![error1](error1.png)
+**Method1.**
 ```
 gir fetch origin main:tmp    
 git add .     
+git push origin main
+```
+**Method2.**
+```
+git pull --rebase origin main
 git push origin main
 ```
