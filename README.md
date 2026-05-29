@@ -85,8 +85,8 @@ command use in vs code terminal
 ## **Git Restore And Reset**
 - Case1. To undo changes, get the last successful change    
     `git restore .` or file name ( . mean all files).
-- Case2: If we added the changes using git add then..
-    `git restore --staged <file_path>` (To unstage)
+- Case2: If we added the changes using git add then..   
+    `git restore --staged <file_path>` (To unstage)     
     `git restore <file_path>`  (To discard changes in the working directory).
 - Case3: Added changes to staging area (didn't commit) after this added more changes to file.    
     `git restore --worktree <File name>` (To get the staged changes).
