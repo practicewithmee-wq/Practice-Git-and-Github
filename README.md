@@ -115,4 +115,13 @@ command use in vs code terminal
 ## **Markdown Cheat Sheet**
 ![markdownimage](markdown.png)
 
+## **Errors**
+1.![error1](error1.png)
+```
+gir fetch origin main:tmp    
+git add .     
+git push origin main
+```
+
+
 
