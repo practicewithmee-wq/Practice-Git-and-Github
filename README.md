@@ -122,6 +122,3 @@ gir fetch origin main:tmp
 git add .     
 git push origin main
 ```
-
-
-
