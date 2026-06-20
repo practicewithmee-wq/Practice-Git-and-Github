@@ -58,9 +58,10 @@ command use in vs code terminal
 - commit: it is the record of change
     `git commit -m "some message"`
 
-## **Push command**
-- Push: upload local repo content to remote repo
-    `git push origin main`
+## **Push And Pull Command**
+- Push: upload local repo content to remote repo 
+    `git push origin main`  
+- Pull: Remote repo content to local repo `git pull (WEb URL)`
 
 ## **Create a New Repo on the command line**
 - `git init`  
