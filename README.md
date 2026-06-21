@@ -117,7 +117,8 @@ command use in vs code terminal
 ![markdownimage](markdown.png)
 
 ## **Errors**
-**Case1.**![error1](error1.png)
+**Case1.**  
+![error1](error1.png)
 **Method1.**
 ```
 gir fetch origin main:tmp    
@@ -127,5 +128,15 @@ git push origin main
 **Method2.**
 ```
 git pull --rebase origin main
-git push origin main
-```
+git push origin main     
+```   
+**case2.**  
+
+![error2](error2.png)     
+**Method**
+
+ For HTTPS (Recommended for beginners)  
+`git remote add origin https://github.com`
+
+ For SSH    
+`git remote add origin git@github.com:YOUR-USERNAME/YOUR-REPOSITORY.git`
